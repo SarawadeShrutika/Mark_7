@@ -1,0 +1,24 @@
+
+#btn_transfer{
+    margin: 1rem;
+}
+#txt_output{
+    margin-bottom: 1rem;
+}
+.white_section{
+    background-color: lightsalmon;
+    border: 1px solid burlywood;
+    width:300px;
+    text-align: center;
+    align-content: center;
+    margin:auto;
+    margin-top: 5rem;  
+}
+.about_section{
+    background-color: lightblue;
+    margin-top: 5rem;
+    width: 300px;
+    text-align: center;
+    margin:auto;
+    color: rgb(51, 50, 50);
+}
